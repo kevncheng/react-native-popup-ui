@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/kevncheng/react-native-popup-ui.git"
+        "url": "git+https://github.com/RafaelAugustoS/react-native-popup-ui.git"
     },
     "keywords": [
         "react-native",
